@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Docker, Minecraft and C++**
 
-- 📫 How to reach me **tye.a.cinkosky@gmail.com**
-
 - 📄 Know about my experiences [https://thesilenttype.xyz/resume](https://thesilenttype.xyz/resume)
 
 - ⚡ Fun fact **I am shorter than average :(**
