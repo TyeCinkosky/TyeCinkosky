@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tye</h1>
+<h1 align="center">Hi 👋, I'm Arya</h1>
 <h3 align="center">A Computer Science student from America!</h3>
 
 - 🔭 I’m currently working on [Various Guided Lessons](https://github.com/TyeCinkosky/CSPrinciplesRepo)
