@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on [Noise "Heatmap" in the Console](https://github.com/TyeCinkosky/C-Noise-Map-FastNoise2)
 
-- 👨‍💻 All of my projects are available at [https://github.com/TyeCinkosky](https://github.com/TyeCinkosky)
-
 - 📝 I regularly write articles on [https://thesilenttype.xyz/blog](https://thesilenttype.xyz/blog)
 
 - 💬 Ask me about **Docker, Minecraft and C++**
